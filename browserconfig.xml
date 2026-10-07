@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="https://i.postimg.cc/X76sqKM3/favicon.png"/>
+            <square150x150logo src="https://i.postimg.cc/X76sqKM3/favicon.png"/>
+            <square310x310logo src="https://i.postimg.cc/X76sqKM3/favicon.png"/>
+            <wide310x150logo src="https://i.postimg.cc/X76sqKM3/favicon.png"/>
+            <TileColor>#0080FF</TileColor>
+            <TileImage src="https://i.postimg.cc/X76sqKM3/favicon.png"/>
+        </tile>
+        <notification>
+            <polling-uri src="https://appnovabd.onrender.com/notifications.xml"/>
+            <frequency>30</frequency>
+            <cycle>1</cycle>
+        </notification>
+    </msapplication>
+</browserconfig>
