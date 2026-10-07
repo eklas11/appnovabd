@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /SUPER%20ADMIN%20V1.html
-Disallow: /admin
-
-Sitemap: https://appnovabd.onrender.com/sitemap.xml
-Host: https://appnovabd.onrender.com
