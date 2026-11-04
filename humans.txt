@@ -1,0 +1,7 @@
+/* TEAM */
+Site: App Nova BD
+Purpose: Digital products, apps, templates and scripts marketplace
+Website: https://appnovabd.onrender.com/
+
+/* THANKS */
+Built with HTML, CSS, JavaScript and Firebase.
