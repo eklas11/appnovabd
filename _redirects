@@ -1,0 +1,3 @@
+# Netlify / compatible static hosts only. Render and GitHub Pages do not process this file.
+# Keep the root as the canonical entry point; query-string product URLs (?p=...) remain intact.
+/*    /index.html   200
