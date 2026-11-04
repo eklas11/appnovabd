@@ -1,0 +1,16 @@
+APP NOVA BD — POST-DEPLOYMENT CHECKLIST
+
+[ ] Confirm canonical hostname and HTTPS.
+[ ] Confirm favicon.png and og-image.png exist and are publicly accessible.
+[ ] Confirm robots.txt and sitemap.xml return HTTP 200.
+[ ] Verify homepage ownership in Google Search Console.
+[ ] Submit sitemap.xml and inspect homepage URL.
+[ ] Check rendered page in Search Console URL Inspection.
+[ ] Check mobile usability and Core Web Vitals.
+[ ] Test product gallery with 1, 2, and 10 valid image URLs.
+[ ] Test wallet purchase with a test account and safe test product.
+[ ] Test each enabled payment form with test data; confirm admin review workflow.
+[ ] Confirm Firebase Realtime Database rules prevent unauthorized reads/writes.
+[ ] Replace the placeholder email in security.txt or remove the file.
+[ ] Generate individual crawlable product pages before adding product URLs to sitemap.
+[ ] Re-test after every production change.
