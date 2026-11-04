@@ -1,0 +1,5 @@
+# Replace the contact address below with a real, monitored security contact before deployment.
+Contact: mailto:REPLACE-WITH-MONITORED-EMAIL
+Preferred-Languages: en, bn
+Canonical: https://appnovabd.onrender.com/.well-known/security.txt
+Policy: https://appnovabd.onrender.com/
