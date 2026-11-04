@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Do not crawl private/user-state URLs or Firebase endpoints.
+Disallow: /admin
+Disallow: /account
+Disallow: /checkout
+Disallow: /login
+Disallow: /register
+
+Sitemap: https://appnovabd.onrender.com/sitemap.xml
+Host: appnovabd.onrender.com
